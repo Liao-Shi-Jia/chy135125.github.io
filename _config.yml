@@ -2,7 +2,7 @@
 title: My Blog
 SEOTitle: 我的博客 | My Blog
 header-img: img/post-bg-desk.jpg
-email: 暂无
+email: chy135125@gmail.com
 description: "不积跬步，无以至千里"
 keyword: "我的博客"
 url: "https://chy135125.github.io"          # your host, for absolute URL
@@ -18,12 +18,9 @@ sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's use
 
 # SNS settings
 RSS: false
-# weibo_username:     暂无
-zhihu_username:     暂无
-github_username:    暂无
-facebook_username:  暂无
-jianshu_username:   暂无
-#twitter_username:   暂无
+
+
+github_username:    chy135125
 
 
 
