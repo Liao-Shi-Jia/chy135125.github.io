@@ -2,10 +2,10 @@
 title: My Blog
 SEOTitle: 我的博客 | My Blog
 header-img: img/post-bg-desk.jpg
-email: chy135125@gmail.com
-description: "凋谢是真实的 盛开只是一种过去"
+email: 暂无
+description: "不积跬步，无以至千里"
 keyword: "我的博客"
-url: "http://chy135125.github.io"          # your host, for absolute URL
+url: "https://chy135125.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/chy135125/chy135125.github.io.git" # you code repository
 
@@ -94,18 +94,4 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WP",
-        href: "https://wangpei.ink"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+friends: []
